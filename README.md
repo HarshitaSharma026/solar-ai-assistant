@@ -49,7 +49,7 @@ It was built as part of an AI internship assessment and demonstrates skills in:
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/harshita/solar-ai-assistant.git
+git clone https://github.com/HarshitaSharma026/solar-ai-assistant.git
 cd solar-ai-assistant
 ```
 
