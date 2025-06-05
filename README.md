@@ -13,7 +13,7 @@ It was built as part of an AI internship assessment and demonstrates skills in:
 
 ---
 
-## 🚀 Features
+## Features
 
 - Upload or link a rooftop image
 - Extracts a descriptive caption using an AI vision model
@@ -27,19 +27,17 @@ It was built as part of an AI internship assessment and demonstrates skills in:
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - Python 3.10+
 - Streamlit
-- FastAPI (used modularly for backend logic)
-- LangChain + Gemini / OpenAI
+- LangChain + Gemini
 - Pydantic (for validation)
-- Torch + Transformers (for vision models)
-- ImageCaptionLoader (LangChain Community tools)
+- Langchain ```ImageCaptionLoader``` (for vision models)
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 **app.py**: Streamlit UI
 **backend.py**: Core backend logic + validation
@@ -47,7 +45,7 @@ It was built as part of an AI internship assessment and demonstrates skills in:
 **requirements.txt**: python dependencies
 
 
-## 🧑‍💻 Getting Started (Local)
+## Getting Started (Local)
 
 ### 1. Clone the Repo
 
