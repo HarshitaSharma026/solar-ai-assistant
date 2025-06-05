@@ -89,7 +89,7 @@ def analyze_rooftop(data: RooftopInput, upload_image_bytes: Optional[bytes] = No
     caption = ImageCaptionLoader(images=[tmp_path]).load()[0].page_content
     os.remove(tmp_path)
 
-    # --- Estimate Panel Info ---
+    # --- estimate panel info ---
     solar_stats = estimate_power_and_roi(data.square_feet)
     # print(f'SOLAR STATS: {solar_stats}')
     # print(f'caption: {caption}')
