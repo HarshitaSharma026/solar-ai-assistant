@@ -5,7 +5,6 @@ This project is an AI-powered assistant that helps assess the solar installation
 It was built as part of an AI internship assessment and demonstrates skills in:
 
 - LangChain (LLM pipelines)
-- FastAPI (modular backend logic)
 - Streamlit (frontend UI)
 - Pydantic (data validation)
 - Image captioning (via Gemini/GPT or placeholder)
