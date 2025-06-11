@@ -7,7 +7,7 @@ It was built as part of an AI internship assessment and demonstrates skills in:
 - LangChain (LLM pipelines)
 - Streamlit (frontend UI)
 - Pydantic (data validation)
-- Image captioning (via Gemini/GPT or placeholder)
+- Image captioning (via BLIP, Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation)
 - Solar panel cost & ROI estimation
 
 ---
